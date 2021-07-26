@@ -1,0 +1,33 @@
+Rails boilerplate / Blog api
+
+I- endpoints
+
+a- Auth 
+b- Users
+c- Posts
+d- Comments
+
+II - helpers
+
+a- translate 
+b- logger
+
+III- extra layers
+
+a- request processing
+b- validation
+c- transformer
+
+IV- Test case
+
+V- Production 
+
+a- docker
+b- jenkins
+c- kubernetes
+
+VI- documentation
+
+
+
+
